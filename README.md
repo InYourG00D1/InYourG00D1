@@ -24,6 +24,6 @@
   <a href="https://www.instagram.com/ragil_iygd77/">
  </a>
   <a href="https://github.com/InYourG00D1">
-    <img src="https://img.shields.io/github/followers/InYourG00D?style=social">
+    <img src="https://img.shields.io/github/stars/InYourG00D1/29?color=black&style=social">
  </a>
 </p>
