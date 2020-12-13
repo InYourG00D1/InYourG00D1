@@ -2,5 +2,7 @@
 <h3 align="center"> Wellcome To My Github </h4>
 
 ## After using the tool, don't forget to follow 
-<a href="https://github.com/InYourG00D1">
-    <img src="https://img.shields.io/github/followers/InYourG00D1?label=InYourG00D1&style=social">
+Follow : <a href="https://github.com/InYourG00D1">
+         <img src="https://img.shields.io/github/followers/InYourG00D1?label=InYourG00D1&style=social">
+Stars :   <a href="https://github.com/InYourG00D1">
+    <img src="https://img.shields.io/github/stars/InYourG00D1?style=social">
