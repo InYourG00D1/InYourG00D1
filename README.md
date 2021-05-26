@@ -5,5 +5,5 @@
          <img src="https://img.shields.io/github/followers/InYourG00D1?label=InYourG00D1&style=social"> <a href="https://github.com/InYourG00D1">
           <img src="https://img.shields.io/github/stars/InYourG00D1?style=social">
 <tr>
-	<br>Instagram : </br><td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Clik Me</a></td>
+	<h1>Instagram : </h1><td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Clik Me</a></td>
 </tr>
