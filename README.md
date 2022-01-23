@@ -1,4 +1,4 @@
-<h4 align="center"> <img src="https://raw.githubusercontent.com/InYourG00D1/InYourG00D1/main/rikka-dance.gif"> <img src="https://raw.githubusercontent.com/InYourG00D1/InYourG00D1/main/anime-kitty.gif"> <img src="https://raw.githubusercontent.com/InYourG00D1/InYourG00D1/main/tenor (1).gif" width="150"> </h4>
+<h4 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/PicsArt_01-24-02.57.57.jpg" width="150"> </h4>
 <h3 align="center"> Wellcome To My Github </h3>
 
 <a href="https://github.com/InYourG00D1"></a>
