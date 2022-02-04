@@ -5,4 +5,5 @@
          <img src="https://img.shields.io/github/followers/InYourG00D1?label=InYourG00D1&style=social"> <a href="https://github.com/InYourG00D1"></a>
           <img src="https://img.shields.io/github/stars/InYourG00D1?style=social">
 <h5 align="center"> Thanks For Support </h5><td>
-Pemuda Pancasila 
+SOUL TEAM CYBER
+LNX#.CREW
