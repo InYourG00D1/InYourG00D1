@@ -5,7 +5,7 @@ Custom Design The Clothes You Want, Zavrel Indonesia is ready to serve you with 
 
 # Example Produk
 Here is one of our designs, to see examples of our designs, you can visit Zavrel Indonesia's social media
-<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/z1.jpg" width="500" height="500"> </h4>
+<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/z1.jpg" width="300" height="300"> </h4>
 
 # About Me
 Instagram :
