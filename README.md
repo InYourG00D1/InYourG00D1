@@ -1,4 +1,4 @@
-<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/Pk.jpg" width="500" height="500"> </h4>
+<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/Pk.jpg" width="500" height="300"> </h4>
 <h3 align="center"> Grebek Warung Amin 69</h3>
 
 #What's Grebek Sahur 
