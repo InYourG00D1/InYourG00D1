@@ -10,5 +10,5 @@
 # About Me
 <p>BCA : 6241197830</p>
 <p>MANDIRI : 1560018279291</p>
-<p>WhastApp : <a target="_blank" href="wa.me/+6289531119709">Here</a></td></p>
+<p>WhastApp : <a target="_blank" href="https://api.whatsapp.com/send/?phone=%2B6289531119709&text&app_absent=0">Here</a></td></p>
 <p>Instagram : <a target="_blank" href="https://www.instagram.com/warungamin.69">Here</a></td></p>
