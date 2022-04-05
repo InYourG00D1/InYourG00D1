@@ -1,4 +1,4 @@
-<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/Pk.jpg" width="700" height="250"> </h4>
+<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/Pk.jpg" width="900" height="250"> </h4>
 <h3 align="center"> Grebek Warung Amin 69</h3>
 
 # What's Grebek Sahur 
@@ -10,5 +10,5 @@
 # About Me
 <p>BCA : 6241197830</p>
 <p>MANDIRI : 1560018279291</p>
-<p>DANA : 089531119709</p>
+<p>WhastApp : <a target="_blank" href="wa.me/+6289531119709">Here</a></td></p>
 <p>Instagram : <a target="_blank" href="https://www.instagram.com/warungamin.69">Here</a></td></p>
