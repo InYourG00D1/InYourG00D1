@@ -12,3 +12,6 @@
 <p>MANDIRI : 1560018279291</p>
 <p>WhastApp : <a target="_blank" href="https://api.whatsapp.com/send/?phone=%2B6289531119709&text&app_absent=0">Here</a></td></p>
 <p>Instagram : <a target="_blank" href="https://www.instagram.com/warungamin.69">Here</a></td></p>
+
+# ALERT!!!
+<p>Abng²&Bocil² HEKER kalo mau nanya tentang script,Jangan Chat WhatsApp Adek Gua. InYourG00D@gmail.com hubungi lewat gmail</p>
