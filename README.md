@@ -1,17 +1,11 @@
-<h5 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/Pk.jpg" width="900" height="250"> </h4>
-<h3 align="center"> Grebek Warung Amin 69</h3>
+Profile github
 
-# What's Grebek Sahur 
-<p>Grebek sahur is a form of fundraising (DONATION), if the results of the donation have been collected, it will be distributed to people in need.</p>
+<h4 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/PicsArt_01-24-02.57.57.jpg" width="600" height="150"> </h4>
+<h3 align="center"> Wellcome To My Github </h3>
 
-# ALERT!!! 
-<p>100% profit will be distributed to those in need, Buy Now!!!</p>
-
-# About Me
-<p>BCA : 6241197830</p>
-<p>MANDIRI : 1560018279291</p>
-<p>WhastApp : <a target="_blank" href="https://api.whatsapp.com/send/?phone=%2B6289531119709&text&app_absent=0">Here</a></td></p>
-<p>Instagram : <a target="_blank" href="https://www.instagram.com/warungamin.69">Here</a></td></p>
-
-# ALERT!!!
-<p>Abng²&Bocil² HEKER kalo mau nanya tentang script,Jangan Chat WhatsApp Adek Gua. InYourG00D@gmail.com hubungi lewat gmail</p>
+<a href="https://github.com/InYourG00D1"></a>
+         <img src="https://img.shields.io/github/followers/InYourG00D1?label=InYourG00D1&style=social"> <a href="https://github.com/InYourG00D1"></a>
+          <img src="https://img.shields.io/github/stars/InYourG00D1?style=social">
+# Thanks For Support
+<p>SOUL TEAM CYBER</p>
+<p>LNX#.CREW</p>
