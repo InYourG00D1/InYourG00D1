@@ -1,6 +1,6 @@
 
 
-<h4 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/giphy.gif" width="600" height="350"> </h4>
+<h4 align="center"> <img src="https://github.com/InYourG00D1/InYourG00D1/blob/main/gs.gif" width="600" height="450"> </h4>
 <h2 align="center"> Hii </h2>
 
 <h3 align="center"> <a href="https://github.com/InYourG00D1"></a>
