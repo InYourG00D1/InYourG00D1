@@ -12,5 +12,5 @@
 <p>LNX#.CREW</p>
 
 # About Me
-<p>Instagram : <td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Click Me</a></td></p>
+<p>Instagram : <td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Here</a></td></p>
 <p>Email : InYourG00D@gmail.com</p>
