@@ -14,4 +14,4 @@
 # About Me
 <p>Instagram : <td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Here</a></td></p>
 <p>Email : InYourG00D@gmail.com</p>
-<p>Shop</p> : <td><a target="_blank" href="https://mycollection.shop/rp2811rl">Here</a></td>
+<p>Shop : <td><a target="_blank" href="https://mycollection.shop/rp2811rl">Here</a></td></p>
