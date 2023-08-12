@@ -7,11 +7,6 @@
          <img src="https://img.shields.io/github/followers/InYourG00D1?label=InYourG00D1&style=social"> <a href="https://github.com/InYourG00D1"></a>
           <img src="https://img.shields.io/github/stars/InYourG00D1?style=social"></h3>
 
-# SHOP NOW
-
-<p> Wow <a target="_blank" href="https://mycollection.shop/rp2811rl">Click Here</a> banyak sekali produk yang menarik tentu saja dengan harga yang terjangkau dikantong dan berbagai macam motif keren&unik lohh dan kualitas nya juga bagus. Ohh iyaa produk nya seperti sepatu snekers, sepatu casual, hoodie, crewneck dll. anda penasaran kan seperti apa bentuk nya? Kunjungi sekarang  <a target="_blank" href="https://mycollection.shop/rp2811rl">Buy NOW</a>
-</p>
-
 # Thanks For Support
 <p>SOUL TEAM CYBER</p>
 <p>LNX#.CREW</p>
